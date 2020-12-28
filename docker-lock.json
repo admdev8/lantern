@@ -1,0 +1,11 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "fedora",
+				"tag": "21",
+				"digest": "a268e5e12257c7770eb44c24041baf5e728fba2eed1a84f007b81845ded0a485"
+			}
+		]
+	}
+}
